@@ -11,6 +11,14 @@ Due to the strict 24-hour time limit, we heavily leveraged AI tools (Claude) for
 * **Frontend & Visualization Setup:** Collaborated on configuring the **Streamlit** dashboard and adjusting the data visualization templates for regional unemployment statistics.
 
 ---
+title: Socialni Atlas Usteckeho Kraje
+emoji: 📊
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: social_atlas/app.py
+pinned: false
+---
 
 # 🚀 Local Development Setup
 
