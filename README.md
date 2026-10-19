@@ -1,3 +1,15 @@
+# 📊 Sociální Atlas Ústeckého Kraje (Social Atlas of the Ústí Region)
+
+> **Note:** This repository is a fork of a team project developed during a 24-hour Open Data Hackathon. 
+
+## 🎯 About the Project
+The goal of this project was to create an interactive web dashboard for analyzing regional social and economic data (such as unemployment rates) in the Ústí Region. It consists of a FastAPI backend that processes open government data and a Streamlit frontend for data visualization.
+
+## 👨‍💻 My Contributions
+Due to the strict 24-hour time limit, we heavily leveraged AI tools (Claude) for rapid code generation. My primary role within the team involved:
+* **Project Coordination & Rapid Prototyping:** Managed the workflow and integrated AI-generated code to accelerate the development of the MVP (Minimum Viable Product).
+* **Frontend & Visualization Setup:** Collaborated on configuring the **Streamlit** dashboard and adjusting the data visualization templates for regional unemployment statistics.
+
 ---
 title: Socialni Atlas Usteckeho Kraje
 emoji: 📊
